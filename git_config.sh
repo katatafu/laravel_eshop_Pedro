@@ -1,4 +1,4 @@
 git config --list
-git config --global user.name "Pepista"
+git config --global user.name "katatafu"
 
 git config --list
